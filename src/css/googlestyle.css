@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: 0;
+}
+
+.googleContainer {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.googleLogo {
+    width: 40%;
+    height: 92px;
+    background: url('../img/googleLogo.png') no-repeat center;
+    background-size: contain;
+    margin-top: 2.7em;
+}
